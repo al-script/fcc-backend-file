@@ -9,6 +9,10 @@ body {
   color: white;
 }
 
+.page-title {
+  color: black !important;
+}
+
 .display-5 {
   font-size: 2rem;
 }
